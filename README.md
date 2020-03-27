@@ -1,0 +1,1 @@
+This is Serena's first git project!
